@@ -2,8 +2,8 @@
 
 **TIIMILIIKMED**
 
-Sander-Aleks Mander
-Anni Aavik
+Sander-Aleks Mander,
+Anni Aavik,
 Markus Timofejev
 
 Me valisime teemaks vinüülhelide müümise.
