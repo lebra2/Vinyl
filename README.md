@@ -4,6 +4,8 @@ Me valisime teemaks vinüülhelide müümise.
 
 **Kust tuli idee?**
 
+Idee tuli Markuselt ning arutasime seda tiimiga. Kõikidele sobis ja hakkasime selle prototüüpi valmistama.
+
 
 **Kellele on see mõeldud?**
 
