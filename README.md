@@ -1,11 +1,5 @@
 # Vinyl
 
-**TIIMILIIKMED**
-
-* Sander-Aleks Mander
-* Anni Aavik
-* Markus Timofejev
-* Marten Saar
 
 ### **TEEMA**
 
@@ -45,3 +39,13 @@ src="https://user-images.githubusercontent.com/91154227/165897550-e40edfc1-10e1-
 #### ☆ [Töö vaade arvutist Figmas](https://www.figma.com/proto/9qfyvw7FOpxSMLdKkRlbxv/Vinyl-noises?node-id=52%3A166&scaling=min-zoom&page-id=52%3A133&starting-point-node-id=52%3A365)
 
 Töö on tehtud Karli digitootedisaini tunni raames.
+
+‎ 
+
+**TIIMILIIKMED**
+
+* Sander-Aleks Mander
+* Anni Aavik
+* Markus Timofejev
+* Marten Saar
+
