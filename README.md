@@ -5,9 +5,15 @@
 
 Me valisime teemaks vinüülhelide müümise, et oleks helide leidmine ja otsimine lihtsustatud.
 
+### Idee põhimõte
+
+Mõte on luua keskkond, kus inimesed saaksid üles laadida oma salvestatud helisid ja teised saaksid neid osta.
+
 ### Kust tuli idee?
 
 Idee tuli Markuselt ning arutasime seda tiimiga. Kõikidele sobis ja hakkasime selle prototüüpi valmistama.
+
+
 
 
 ### Kellele on see mõeldud?
