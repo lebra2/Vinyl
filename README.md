@@ -25,7 +25,7 @@ src="https://user-images.githubusercontent.com/91154227/165897550-e40edfc1-10e1-
 
 
 
-
+## Töövahendite loetelu:
 
 #### ☆ [Meie töö Figmas](https://www.figma.com/file/9qfyvw7FOpxSMLdKkRlbxv/Vinyl-noises?node-id=0%3A1)
 #### ★ [Töö mobiilvaade Figmas](https://www.figma.com/proto/9qfyvw7FOpxSMLdKkRlbxv/Vinyl-noises?node-id=21%3A69&scaling=scale-down&page-id=24%3A6&starting-point-node-id=21%3A69)
