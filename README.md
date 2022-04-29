@@ -1,5 +1,11 @@
 # Vinyl
 
+**TIIMILIIKMED**
+
+Sander-Aleks Mander
+Anni Aavik
+Markus Timofejev
+
 Me valisime teemaks vinüülhelide müümise.
 
 **Kust tuli idee?**
