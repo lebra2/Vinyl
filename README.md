@@ -7,18 +7,22 @@
 * Markus Timofejev
 * Marten Saar
 
-**TEEMA**
+### **TEEMA**
 
 Me valisime teemaks vinüülhelide müümise, et oleks helide leidmine ja otsimine lihtsustatud.
 
-**Kust tuli idee?**
+### Kust tuli idee?
 
 Idee tuli Markuselt ning arutasime seda tiimiga. Kõikidele sobis ja hakkasime selle prototüüpi valmistama.
 
 
-**Kellele on see mõeldud?**
+### Kellele on see mõeldud?
 
 Selline leht on ideaalne inimestele, kellel läheb kiirelt kvaliteetseid helifaile loodusest jms vaja, kuid ei ole endal kas võimalik või mõtekas käia neid salvestamas.
+
+### Kokkuvõtlikult
+
+Lõpuks valmis meil kolm lehte Figmas; wireframe, telefoni vaade ja arvuti vaade.
 
 Pilte: 
 
