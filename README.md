@@ -7,7 +7,9 @@
 * Markus Timofejev
 * Marten Saar
 
-Me valisime teemaks vinüülhelide müümise.
+**TEEMA**
+
+Me valisime teemaks vinüülhelide müümise, et oleks helide leidmine ja otsimine lihtsustatud.
 
 **Kust tuli idee?**
 
